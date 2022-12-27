@@ -1,0 +1,23 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "name": "React-POS",
+  "short_name": "React-POS",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src" : "maskable.png",
+      "sizes" : "196x196",
+      "type" : "image/png",
+      "purpose" : "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
